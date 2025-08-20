@@ -26,7 +26,7 @@
     --orange: #faa032;
     --greenyellow: #adff2f;
     --brown: brown;
-    --reference-bgc: var(--black-a8);
+    --reference-bgc: var(--blue-cobalt);
     --layout-width: 944px;
     --input-font-size: 14px;
 }
@@ -279,7 +279,7 @@
 }
 .layout-row--of-reference {
     display: grid;
-    grid-template-columns: 36px 135px 46px 392px;
+    grid-template-columns: 36px 223px 46px 385px;
     align-items: center;
     min-height: 28px;
     font-size: 12px;
