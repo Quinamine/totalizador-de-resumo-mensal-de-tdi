@@ -2,7 +2,7 @@
 
 ![Trecho do Totalizador do Resumo Mensal de TDI](imagens/totalizador-de-resumo-mensal-de-tdi.png)
 
-O **Totalizador de Resumo Mensal de TDI** é um serviço online gratuito que auxilia na elaboração, como o nome sugere, do resumo mensal de Tratamento de Desnutrição no Internamento (TDI) por meio do cálculo automático dos totais com base nos dados inseridos pelo usuário. Foi criado de acordo com o modelo da ficha de resumo mensal de TDI actualmente vigente no Serviço Nacional de Saúde em Moçambique.
+O **Totalizador de Resumo Mensal de TDI** é um serviço online gratuito que auxilia na elaboração, como o nome sugere, do resumo mensal de Tratamento de Desnutrição no Internamento (TDI) por meio do cálculo automático dos totais com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da ficha de resumo mensal de TDI actualmente vigente no Serviço Nacional de Saúde em Moçambique.
 
 
 ## Objectivos
