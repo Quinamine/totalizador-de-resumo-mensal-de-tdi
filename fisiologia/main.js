@@ -59,6 +59,7 @@ const totalizador = {
             let valorDeC3 = document.querySelector(`.${classNameDeC3}`);
             let letalidade = valorDeC3.value / valorDeC * 100;
             letalidade = (Number.isInteger(letalidade)) ? letalidade : letalidade.toFixed(1);
+            letalidade === "NaN" && (letalidade = 0);
             celulaDeSaida.value = `${letalidade}%`;
         }
         if(inputTarget.dataset.letalidadegeral) {
@@ -71,6 +72,7 @@ const totalizador = {
             let valorDeC3 = document.querySelector(`.${classNameDeC3}`);
             let letalidade = valorDeC3.value / valorDeC * 100;
             letalidade = (Number.isInteger(letalidade)) ? letalidade : letalidade.toFixed(1);
+            letalidade === "NaN" && (letalidade = 0)
             celulaDeSaida.value = `${letalidade}%`;
         }
     },
