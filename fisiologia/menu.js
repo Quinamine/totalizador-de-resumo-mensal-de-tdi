@@ -211,8 +211,8 @@ function eventos() {
     });
     // PARTILHAR 
     const data = {
-        title: "Totalizador de Resumo Mensal de PRN I",
-        text: "Totaliza automaticamente o resumo mensal de tratamento de desnutrição em ambulatório para crianças dos 6 meses aos 14 anos com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.",
+        title: "Totalizador de Resumo Mensal de TDI",
+        text: "Totaliza automaticamente o resumo mensal de Tratamento de Desnutrição no Internamento (TDI) com base nos dados inseridos pelo usuário. Foi desenvolvido de acordo com o modelo da respectiva ficha de resumo mensal actualmente vigente no Serviço Nacional de Saúde em Moçambique.",
         url: "https://quinamine.github.io/totalizador-de-resumo-mensal-de-prn-i/index.html"
     }
     const btnPartilhar = document.querySelector(".main__btn-fixed--share");
